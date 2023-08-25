@@ -1,0 +1,49 @@
+.union-icon {
+  position: relative;
+  width: 347px;
+  height: 178.85px;
+}
+.span {
+  color: var(--color-darkslategray);
+}
+.bingo-you-have-container,
+.youre-doing-great {
+  position: absolute;
+  top: 58px;
+  left: 104px;
+  font-weight: 500;
+  display: inline-block;
+  width: 162px;
+}
+.youre-doing-great {
+  top: 95px;
+  color: var(--color-darkslategray);
+  width: 227px;
+}
+.button,
+.group-icon {
+  position: absolute;
+  top: 136px;
+  left: 104px;
+}
+.group-icon {
+  height: 47.5%;
+  width: 17.56%;
+  top: 26.84%;
+  right: 72.52%;
+  bottom: 25.66%;
+  left: 9.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.step-6 {
+  position: relative;
+  width: 100%;
+  height: 190px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-3-size);
+  color: #71a503;
+  font-family: var(--heading-3);
+}
